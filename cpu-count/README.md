@@ -129,3 +129,8 @@ To learn more about Node, see the [Node documentation](https://nodejs.org).
 
 - cd ..
 - node test.js
+
+- cd cpu-count
+- npm run build -- --release
+- cd ..
+- node test.js
